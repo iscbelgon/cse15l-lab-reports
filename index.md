@@ -1,3 +1,3 @@
-## Hello, world!
+## Lab Report 1
 
-Testing out how to format different things withing github. 
+In this lab report, I will be explaining the steps as to how to log into a course-specific account on `ieng6`
