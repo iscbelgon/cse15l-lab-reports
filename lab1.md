@@ -28,6 +28,9 @@ For now we have completed the first step of installing visual studio code.
 After the installation of Visual Studio code, we will be using it to remotely connect to a server using our course-specific account that we found earlier. 
 
 For me, since I am on windows, I downloaded and installed:
+
 [Git for Windows](https://gitforwindows.org/)
+
+I then went in Visual Studio code and set the terminal to use `bash` by default.
 
 ## Trying Some Commands
