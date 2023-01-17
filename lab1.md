@@ -46,3 +46,4 @@ Since it is not my first time logging in and connecting to the server, I am not 
 We have now successfully connected to a server through our client.
 
 ## Trying Some Commands
+Our last part of this lab report, we will being running some commands and observing what different useful commands do. 
