@@ -1,10 +1,13 @@
 # Lab Report 1
 In this lab report, I will be explaining the steps as to how to log into a course-specific account on `ieng6` through Visual Studios code and remotely connecting along with trying some commands within the remote conenction.
 
-Through this report, we will be 
+Through this report, we will be: 
 * Installing VScode
 * Remotely connecting 
 * Trying some commands
+
+We will be continuing assuming that you have successfully found your specific CSE15L account here:
+[Link](https://sdacs.ucsd.edu/~icc/index.php)
 
 ## Installing Visual Studios code
 First we will go about installing Visual Studios code. 
