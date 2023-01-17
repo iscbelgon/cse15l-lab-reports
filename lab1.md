@@ -48,4 +48,15 @@ We have now successfully connected to a server through our client.
 ## Trying Some Commands
 Our last part of this lab report, we will being running some commands and observing what different useful commands do. 
 Specifically, we will be running commands such as `cd`, `ls`, `mkdir`, and `cp`.
-`cd` is used to change directory and can be followed with the directory you wish to change it to. 
+
+`cd` is used to change directory and can be followed with the directory you wish to change it to. Following a directory title with it will change the directory to that said directory.
+
+`ls` is used to list out all the files inside the current directory. 
+
+`pwd` is used to show the current directory you are currently in.
+
+`mkdir` is used to create a new directory. 
+
+`cp` is used to copy files in one directory to another. 
+
+Below is a picture of what you should see when running certain commands. 
