@@ -33,6 +33,7 @@ For me, since I am on windows, I downloaded and installed:
 
 I then went in Visual Studio code and set the terminal to use `bash` by default.
 
-We will use `ssh` by opening a new terminal within VScode
+We will use `ssh` by opening a new terminal within VScode and typing in the following, exchanging `zz` with the letters in your own account that we searched up earlier. 
+`$ ssh cs15lwi23zz@ieng6.ucsd.edu`
 
 ## Trying Some Commands
