@@ -33,4 +33,6 @@ For me, since I am on windows, I downloaded and installed:
 
 I then went in Visual Studio code and set the terminal to use `bash` by default.
 
+We will use `ssh` by opening a new terminal within VScode
+
 ## Trying Some Commands
