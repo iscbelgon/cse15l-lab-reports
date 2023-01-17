@@ -20,6 +20,10 @@ To download Visual Studio code, go to the official website
 
 ![Image](Screenshot(13).png)
 
+Once you download and open up visual studio code, you should get a screen similar to the one above. The color may vary depending on the default settings or depending if you already have it installed and customized the colors. 
+
+For now we have completed the first step of installing visual studio code. 
+
 ## Remotely Connecting
 
 ## Trying Some Commands
