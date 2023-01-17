@@ -37,4 +37,6 @@ We will use `ssh` by opening a new terminal within VScode and typing in the foll
 
 `$ ssh cs15lwi23zz@ieng6.ucsd.edu`
 
+If it is your first time connecting to the server, you will be met with a message that you will have to answer by typing `yes`. After pressing enter you will type in your password and will be logged in. 
+
 ## Trying Some Commands
