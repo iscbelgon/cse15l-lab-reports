@@ -18,7 +18,7 @@ To download Visual Studio code, go to the official website
 [https://code.visualstudio.com](https://code.visualstudio.com/)
 , download and install. 
 
-![Image](Screenshot(13).jpg)
+![Image](Screenshot(13).png)
 
 ## Remotely Connecting
 
