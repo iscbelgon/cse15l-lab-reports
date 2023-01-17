@@ -41,4 +41,8 @@ If it is your first time connecting to the server, you will be met with a messag
 
 ![LoggingIn](loggingIn.png)
 
+Since it is not my first time logging in and connecting to the server, I am not prompted to answer the yes or no question that is asked upon initial connection. 
+
+We have now successfully connected to a server through our client.
+
 ## Trying Some Commands
