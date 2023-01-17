@@ -10,8 +10,12 @@ We will be continuing assuming that you have successfully found your specific CS
 
 [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 
-## Installing Visual Studios code
-First we will go about installing Visual Studios code. 
+
+## Installation of Visual Studios Code
+First we will go about installing Visual Studios code. Of course, the computers in the labs have visual studios installed on the computers. We, however, are interested in installing Visual Studios on our own computers. 
+
+You can visit 
+[https://code.visualstudio.com](https://code.visualstudio.com/)
 
 ## Remotely Connecting
 
