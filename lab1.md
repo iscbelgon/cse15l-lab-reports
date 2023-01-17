@@ -18,7 +18,7 @@ To download Visual Studio code, go to the official website
 [https://code.visualstudio.com](https://code.visualstudio.com/)
 , download and install. 
 
-![Image](Screenshot(13).png)
+![Image](Screenshot (13).png)
 
 Once you download and open up visual studio code, you should get a screen similar to the one above. The color may vary depending on the default settings or depending if you already have it installed and customized the colors. 
 
