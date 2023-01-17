@@ -47,3 +47,5 @@ We have now successfully connected to a server through our client.
 
 ## Trying Some Commands
 Our last part of this lab report, we will being running some commands and observing what different useful commands do. 
+Specifically, we will be running commands such as `cd`, `ls`, `mkdir`, and `cp`.
+`cd` is used to change directory and can be followed with the directory you wish to change it to. 
