@@ -7,7 +7,8 @@ Through this report, we will be:
 * Trying some commands
 
 We will be continuing assuming that you have successfully found your specific CSE15L account here:
-[Link](https://sdacs.ucsd.edu/~icc/index.php)
+
+[https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 
 ## Installing Visual Studios code
 First we will go about installing Visual Studios code. 
