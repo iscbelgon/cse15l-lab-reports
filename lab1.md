@@ -60,3 +60,5 @@ Specifically, we will be running commands such as `cd`, `ls`, `mkdir`, and `cp`.
 `cp` is used to copy files in one directory to another. 
 
 Below is a picture of what you should see when running certain commands. 
+
+![Commands](commands.png)
