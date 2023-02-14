@@ -20,5 +20,9 @@ As long as what we want included in our string is on the right side of `=`, it w
 ![Image](test2.png)
 
 
+## Part 2
+
+
+
 ## Part 3
 Something that I learned from this lab was running a server on a remote computer. This is the first time I have played around with this. I did struggle at first due to being confused on why the port had to be different but I though it was interesting how I was able to access a server from another computer, granted both were on the same port. 
