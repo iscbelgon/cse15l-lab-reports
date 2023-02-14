@@ -3,3 +3,9 @@ In this Lab Report, I will be explaining a web server called `StringServer` and 
 
 # Part 1
 ![Image](VSCode2.png)
+
+
+![Image](test1.png)
+
+
+![Image](test2.png)
